@@ -1,0 +1,6 @@
+../Core/Src/WIFI.c:21:6:Wifi_HW_Reset	4	static
+../Core/Src/WIFI.c:29:6:uart_hal_rx_buffer_init	4	static
+../Core/Src/WIFI.c:38:9:uart_hal_getchar	16	static
+../Core/Src/WIFI.c:64:6:uart_hal_rx_monitor	64	static
+../Core/Src/WIFI.c:482:9:Recieve_data	96	static
+../Core/Src/WIFI.c:1048:9:Realtime_Recieve_data	16	static

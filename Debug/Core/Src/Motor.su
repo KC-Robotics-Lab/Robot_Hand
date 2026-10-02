@@ -1,0 +1,9 @@
+../Core/Src/Motor.c:14:6:Motor_PWM_init	8	static
+../Core/Src/Motor.c:46:6:pq12_r_process	24	static
+../Core/Src/Motor.c:55:6:Runhand_Motor_Process	24	static
+../Core/Src/Motor.c:89:6:Realtime_Motor_Process	24	static
+../Core/Src/Motor.c:137:6:One_fingur_2Motor	32	static
+../Core/Src/Motor.c:268:6:Motor_Test	24	static
+../Core/Src/Motor.c:326:6:CalculateSModelLine	48	static
+../Core/Src/Motor.c:343:6:HAL_TIM_PWM_PulseFinishedCallback	16	static
+../Core/Src/Motor.c:474:6:Stepper_motor	16	static

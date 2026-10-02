@@ -1,0 +1,8 @@
+../Core/Src/EEPROM.c:9:6:EEPROM_Writebyte	32	static
+../Core/Src/EEPROM.c:19:6:EEPROM_Writebytes	32	static
+../Core/Src/EEPROM.c:29:6:EEPROM_Readbyte	32	static
+../Core/Src/EEPROM.c:39:6:EEPROM_Readbytes	32	static
+../Core/Src/EEPROM.c:65:6:float2byte_onedata	16	static
+../Core/Src/EEPROM.c:76:6:float2byte	16	static
+../Core/Src/EEPROM.c:121:6:byte2float_onedata	16	static
+../Core/Src/EEPROM.c:127:6:byte2float	16	static
